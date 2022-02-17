@@ -1,4 +1,5 @@
 # Neural-Machine-Translation
 
 - Weights of the models can be found here : 
-  - https://drive.google.com/drive/folders/1Uh4YXQhTtMWcA7PMgRJ9ZZsJXHwilWBk?usp=sharing
+  - decoder : https://drive.google.com/file/d/1kzGkM6c7q-mOAwwv4Esenuchl4CFZrou/view?usp=sharing
+  - encoder : https://drive.google.com/file/d/13ahJxQ3NH7Ucldm7i5ofrBTWmlecanR5/view?usp=sharing
